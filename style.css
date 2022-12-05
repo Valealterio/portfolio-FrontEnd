@@ -1,0 +1,17 @@
+div {
+  color: black;
+  font-family: Cambria;
+}
+img {
+  width: 100px;
+  height: 100px;
+}
+header {
+  text-align: center;
+}
+.subt {
+  margin-left: 5%;
+}
+.tec {
+  margin-left: 25%;
+}
